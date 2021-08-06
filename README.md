@@ -1,0 +1,2 @@
+# Dog-Breed-Classification
+This image classification project involves using a deep learning model called a convolutional neural network (CNN) for image classification. The CNN learned the features of several dog breeds in a giant dataset of 1.2 million images called ImageNet. Three different CNN architectures (AlexNet, VGG and Resnet) were explored to determine which is best for the application. VGG outperformed the other architectures with 93.3% dog breed classification accuracy.
